@@ -1,0 +1,4 @@
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
+<script src="//rawgit.com/josephg/noisejs/master/perlin.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/dat-gui/0.6.0/dat.gui.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/stats.js/r16/Stats.min.js"></script>
