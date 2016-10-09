@@ -48,3 +48,7 @@ TweenLite.set(container2,{perspective:300});
 TweenMax.staggerTo('.R-D,.R-T',1,{rotationX:180,repeat:-1,ease:Linear.easeNone,delay:-C/2},1/(C/2));
 TweenMax.to('.R-D,.R-T',40,{rotation:360,repeat:-1,ease:Linear.easeNone});
 TweenMax.to('#core2',1.5,{scale:0.95,backgroundColor:'hsl(+=20,+=0%,-=10%)',repeat:-1,yoyo:true,ease:Sine.easeInOut});
+
+
+
+
